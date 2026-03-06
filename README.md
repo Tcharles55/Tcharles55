@@ -1,15 +1,20 @@
-## Hi there 👋
+#Saudações
 
-**Tcharles55/Tcharles55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é **Tcharles**. Atualmente estou cursando Educação Física bacharelado e Tecnico de Informatica.
 
-Here are some ideas to get you started:
+Nasci em 1995, moro em Santa Maria - RS, Brasil.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Meus interesses são:
+- Esportes em geral
+- tempo em família
+- adquirir novos conhecimentos
+  
+ # Como me contatar:
+ 
+ Fone: (55) 99155-7387 / +351 968248213 (portugal) *ambos os numeros possuem Whatsapp*
+ 
+ Email: tcharlesrfdemelo@gmail.com
+ 
+ Redes socias: @t._.charles (instagram)
+ 
+  
